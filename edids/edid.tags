@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wxHexEditor_XML_TAG>
+  <filename path="/home/edrex/src/github.com/edrex/custom-edids/edids/edid.tags">
+    <TAG id="0">
+      <start_offset>7</start_offset>
+      <end_offset>0</end_offset>
+      <tag_text>header</tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#4EA03F</note_colour>
+    </TAG>
+    <TAG id="1">
+      <start_offset>8</start_offset>
+      <end_offset>17</end_offset>
+      <tag_text>Vendor and Product ID</tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#92639B</note_colour>
+    </TAG>
+    <TAG id="2">
+      <start_offset>18</start_offset>
+      <end_offset>19</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#1F9B79</note_colour>
+    </TAG>
+    <TAG id="3">
+      <start_offset>35</start_offset>
+      <end_offset>37</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#8993F2</note_colour>
+    </TAG>
+    <TAG id="4">
+      <start_offset>38</start_offset>
+      <end_offset>53</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#B34894</note_colour>
+    </TAG>
+    <TAG id="5">
+      <start_offset>54</start_offset>
+      <end_offset>71</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#A44D36</note_colour>
+    </TAG>
+    <TAG id="6">
+      <start_offset>72</start_offset>
+      <end_offset>89</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#028147</note_colour>
+    </TAG>
+    <TAG id="7">
+      <start_offset>90</start_offset>
+      <end_offset>107</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#A25C45</note_colour>
+    </TAG>
+    <TAG id="8">
+      <start_offset>108</start_offset>
+      <end_offset>125</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#1B17B0</note_colour>
+    </TAG>
+    <TAG id="9">
+      <start_offset>127</start_offset>
+      <end_offset>127</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#EEEEEC</font_colour>
+      <note_colour>#92639B</note_colour>
+    </TAG>
+  </filename>
+</wxHexEditor_XML_TAG>
