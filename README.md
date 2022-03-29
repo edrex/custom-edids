@@ -33,6 +33,8 @@ I would like to switch My Dell XPS 13 9360's QHD+ (3200x1600) display into a low
 ## Random links
 
 - [EDID — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/admin-guide/edid.html)
+- https://wiki.debian.org/RepairEDID
+- https://github.com/TheMediocritist/RadxaZero_Experiments#edit-display-edid-binary-files
 - https://wiki.archlinux.org/title/kernel_mode_setting#Forcing_modes_and_EDID
 - https://github.com/akatrevorjay/edid-generator
   - [edid-generator: init at unstable-2018-03-15 by flokli · Pull Request #81200 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/pull/81200)
